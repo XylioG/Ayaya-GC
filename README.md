@@ -36,7 +36,7 @@ As well as setting up **`cheat-library`** as startup project.
 1. Open Compiled version (debug, release)
 
 
-1. Ensure that `CLibrary.dll` is in the same folder that `injector.exe`.
+1. Ensure that `Ayaya.dll` is in the same folder that `injector.exe`.
 1. Run `injector.exe`.
 1. After the login page appeared, press F1 to open Akebi GUI.
 
@@ -132,7 +132,7 @@ Welcome to the short explanation for bug reporting
 1. You Found a bug.
 1. write down what happened, as well as your first thoughts on what you think caused it.
 1. can it be reproduced? Yes or no. If yes: Explain in as much clear as possible. i.e what happens when the bug occurs and why it occurs. 
-1. Tell us which version you are using. copy the `SHA`/ Version Number of the latest commit when you built the mod. For example: `bd17a00ec388f3b93624280cde9e1c66e740edf9` / Release 0.7
+1. Tell us which version you are using. copy the `SHA`/ Version Number of the latest commit when you built the mod. For example: `bd17a00ec388f3b93624280cde9e1c66e740edf9` / Release 0.8
 
 ## Bug reporting template
 <br>
@@ -142,10 +142,10 @@ I found a bug in the feature `enemy vacuum`.
 I think it's caused by the filter functions that are defined in `someFeature.cpp`.
 
 ```
-Date Occured: 5/3/2022  
+Date Occured: 14/7/2022  
 Is it reproducible: Occasionally
 Latest Commit used: bd17a00ec388f3b93624280cde9e1c66e740edf9
-Release Version: 0.7  
+Release Version: 0.8
 ```  
 
 <h1 align="center">Contributing</h1>
